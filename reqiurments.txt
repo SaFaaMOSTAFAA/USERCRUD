@@ -9,3 +9,4 @@ pycodestyle==2.12.1
 pyflakes==3.2.0
 sqlparse==0.5.3
 tzdata==2025.2
+django-filter==25.1
